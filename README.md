@@ -86,6 +86,8 @@ Monthly Profit Margins → Area Chart
 graphql
 Copy
 Edit
+
+```
 walmart-sales-project/
 │
 ├── data/                # Raw and cleaned datasets
@@ -95,6 +97,9 @@ walmart-sales-project/
 ├── README.md            # Project documentation
 ├── requirements.txt     # Python dependencies
 └── main.py              # Script for loading, cleaning, and processing
+
+```
+
 
 
 
